@@ -1,7 +1,7 @@
 # FaceNet-Face-Recognition-deep-learning
-# Face Recognition System
 
-## CNN Programming Assignment – Coursera
+
+## CNN Programming Assignment – Academic Project( IIT kanpur)
 
 ### Disclaimer
 The solutions provided in this repository are intended for learning and reference purposes only.
